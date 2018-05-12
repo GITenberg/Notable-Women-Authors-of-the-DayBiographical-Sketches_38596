@@ -1,0 +1,34 @@
+_repo: Notable-Women-Authors-of-the-DayBiographical-Sketches_38596
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Black, Helen C.
+    gutenberg_agent_id: '32800'
+    url: http://www.gutenberg.org/2009/agents/32800
+description: ''
+gutenberg_issued: '2012-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38596'
+  lccn: '11019020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcsh 'Women and literature -- Great Britain -- History -- 19th century'
+- !lcsh 'Women authors, English -- Biography'
+- !lcc 'PR'
+tableOfContents: Mrs. Lynn Linton -- Mrs. Riddell -- Mrs. L. B. Walford -- Rhoda Broughton
+  -- John Strange Winter (Mrs. Arthur Stannard) -- Mrs. Alexander -- Helen Mathers
+  -- Florence Marryat -- Mrs. Lovett Cameron -- Mrs. Hungerford -- Matilda Betham
+  Edwards -- Edna Lyall -- Rosa Nouchette Carey -- Adeline Sergeant -- Mrs. Edward
+  Kennard -- Jessie Fothergill -- Lady Duffus Hardy -- Iza Duffus Hardy -- May Crommelin
+  -- Mrs. Houstoun -- Mrs. Alex. Fraser -- Honourable Mrs. Henry Chetwynd -- Jean
+  Middlemass -- Augusta De Grasse Stevens -- Mrs. Leith Adams -- Jean Ingelow.
+title: 'Notable Women Authors of the Day: Biographical Sketches'
+url: http://www.gutenberg.org/ebooks/38596
